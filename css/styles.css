@@ -1,0 +1,125 @@
+ul, ol {
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+   cursor: pointer;
+}
+
+.logo{
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.logo-color{
+    color:#2e2f42
+}
+.menu-link{
+    font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#2e2f42;
+
+}
+.menu-link:hover,
+.menu-link:focus{
+    color:#404bbf;
+}
+.menu-link-address{
+    font-style: normal;
+}
+.menu-link-address{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/*---------------------HERO-------------------*/
+.section-text{
+    background: #2e2f42;
+}
+.main-section{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+.button-order{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+background: #4d5ae5;
+cursor: pointer;
+}
+.button-order:hover{
+    background-color: #404bbf;
+}
+.button-order:focus{
+background-color: #404bbf;
+color: #ffffff;
+}
+/*-------------------BENEFITS-------------*/
+.main-benefits-item-title{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.main-benefits-item-text{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/*----------------------TEAM----------------*/
+.section-team{
+    background: #f4f4fd;
+}
+.section-team-title{
+    font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize;
+color: #2e2f42;
+}
+.section-list-title{
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+background-color: #f4f4fd;
+}
+.section-list-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455; 
+    background-color: #f4f4fd; 
+}
+/*----------------PORTFOLIO----------------*/
+
+/*----------------FOOTER-------------------*/
