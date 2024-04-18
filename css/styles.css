@@ -105,6 +105,9 @@ color: #434455;
 .section-team{
     background-color: #f4f4fd;
 }
+.section-team-list-item  {
+    background-color: #fff;
+}
 .section-team-title{
     font-weight: 700;
 font-size: 36px;
