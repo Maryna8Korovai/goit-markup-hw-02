@@ -41,7 +41,7 @@ color:#2e2f42;
 .menu-link:focus{
     color:#404bbf;
 }
-.menu-link-address{
+.top-address {
     font-style: normal;
 }
 .menu-link-address{
@@ -103,7 +103,7 @@ color: #434455;
 }
 /*----------------------TEAM----------------*/
 .section-team{
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .section-team-title{
     font-weight: 700;
@@ -113,7 +113,7 @@ letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
-background-color: #FFFFFF
+background-color: #FFFFFF;
 }
 .section-list-title{
     font-weight: 500;
@@ -135,7 +135,6 @@ background-color: #f4f4fd;
 }
 /*----------------PORTFOLIO----------------*/
 .page-footer-text{
-    font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -147,7 +146,6 @@ color: #f4f4fd;
     background-color: #ffffff;
 }
 .portfolio-title{
-    font-family: "Roboto", sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -156,8 +154,7 @@ text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
 }
-.portfoli-list-text{
-    font-family: "Roboto", sans-serif;
+.portfolio-list-text{
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -165,7 +162,6 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .portfolio-list-title{
-    font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -187,7 +183,7 @@ color: #4d5ae5;
 background-color: #2e2f42
 }
 .color-logo{
-    color:#4d5ae5;
+    color:#F4F4FD;
 }
 .page-footer-text{
     line-height: 1.5;
